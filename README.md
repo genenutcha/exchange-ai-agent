@@ -1,0 +1,1 @@
+Exchangely is an AI-powered platform designed to help university students navigate the exchange journey more easily and confidently. From choosing the right exchange destination to interview mock up and preparing for life abroad, the platform acts as a personalized assistant that supports students throughout the entire process
